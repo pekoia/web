@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:reeYPBj1lehwAF-9h8aud
+SUMMARY:Evénement PEKOIA | Coco Chanel\, la mode simple\, pratique mais chi
+	c.
+DTSTAMP:20230401T100500Z
+DTSTART:20220516T163000Z
+DESCRIPTION:Pour des femmes émancipées 
+LOCATION:https://pekoia.com/hub/?inscription=abfcf968-0080-489c-88c8-74b24b
+	ef7313
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:0IE1A2El6zytp3_Qk_n-M
+SUMMARY:Evénement PEKOIA | Christian Dior\, la révolution du New Look
+DTSTAMP:20230401T100500Z
+DTSTART:20220411T163000Z
+DESCRIPTION:Couturier du rêve
+LOCATION:https://pekoia.com/hub/?inscription=aac141d6-034b-4600-871e-183ee4
+	20f614
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:rc6FUUHjfSU1ZP3TvYy8p
+SUMMARY:Evénement PEKOIA | Thierry Mugler\, créateur de tous les excès !
+DTSTAMP:20230401T100500Z
+DTSTART:20220328T163000Z
+DESCRIPTION:Couturissime
+LOCATION:https://pekoia.com/hub/?inscription=936bd1d8-2aab-477a-aa1e-59732a
+	6c2186
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:Y99yPN09E5eOARaksXyUm
+SUMMARY:Evénement PEKOIA | Yves Saint Laurent\, celui qui réinventa le vest
+	iaire de la femme moderne et descend la mode dans la rue 
+DTSTAMP:20230401T100500Z
+DTSTART:20220620T163000Z
+DESCRIPTION:Des créations intemporelles
+LOCATION:https://pekoia.com/hub/?inscription=93dc0e10-25a8-4c7d-8fe8-78e64b
+	00b5f0
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

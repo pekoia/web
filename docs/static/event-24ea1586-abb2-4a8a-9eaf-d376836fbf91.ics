@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:rQ_m9v-MyC-_jcyf_7T_q
+SUMMARY:Evénement PEKOIA | Une Nouvelle Capitale culturelle : le développem
+	ent de la scène artistique à New York\, 1865-1913
+DTSTAMP:20230401T100500Z
+DTSTART:20230216T173000Z
+DESCRIPTION:En dialogue avec l'exposition au Metropolitan Museum of Art: Ne
+	w York\, New York Art Worlds\, 1870–1890
+LOCATION:https://pekoia.com/hub/?inscription=24ea1586-abb2-4a8a-9eaf-d37683
+	6fbf91
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

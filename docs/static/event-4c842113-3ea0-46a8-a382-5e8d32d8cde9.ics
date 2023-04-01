@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:PcVx2uQkA5JASnrMF93rJ
+SUMMARY:Evénement PEKOIA | Voyage dans le monde des énergies: Besoins\, enj
+	eux\, technologies et… futur ? 3/4
+DTSTAMP:20230401T100500Z
+DTSTART:20230223T193000Z
+DESCRIPTION:Les énergies - françaises - technologies - sauf hydrogène - qui
+	z
+LOCATION:https://pekoia.com/hub/?inscription=4c842113-3ea0-46a8-a382-5e8d32
+	d8cde9
+DURATION:PT75M
+END:VEVENT
+END:VCALENDAR

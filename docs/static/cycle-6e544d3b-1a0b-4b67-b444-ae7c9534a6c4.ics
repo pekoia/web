@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:A7f6dc8gAbla6WBAqT5Rm
+SUMMARY:Evénement PEKOIA | Invisibilisation des artistes femmes dans l'hist
+	oire de l'art
+DTSTAMP:20230401T100500Z
+DTSTART:20221026T160000Z
+DESCRIPTION:Le temps de l'apprentissage
+LOCATION:https://pekoia.com/hub/?inscription=d4b3f708-a05e-4a3a-807a-bfabb5
+	cc30cd
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:6NS2IVf0NyMYg501qLoD5
+SUMMARY:Evénement PEKOIA | Invisibilisation des artistes femmes dans l’hist
+	oire de l’art
+DTSTAMP:20230401T100500Z
+DTSTART:20221207T170000Z
+DESCRIPTION:La fortune posthume
+LOCATION:https://pekoia.com/hub/?inscription=1f90b481-f66a-4cdf-b097-fa1b0f
+	343a9d
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:DwROWpY4Tc0jzVfzfLpPW
+SUMMARY:Evénement PEKOIA |  Invisibilisation des artistes femmes dans l’his
+	toire de l'art
+DTSTAMP:20230401T100500Z
+DTSTART:20221116T170000Z
+DESCRIPTION:La vie d'artiste
+LOCATION:https://pekoia.com/hub/?inscription=cba68f0e-27c7-4d5a-a45a-1d71d4
+	0ce4a6
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

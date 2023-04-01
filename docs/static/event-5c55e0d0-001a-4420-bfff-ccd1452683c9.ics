@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_y3Pd0gelYDwqaNYWy6hm
+SUMMARY:Evénement PEKOIA | 4/7 - Carbone vivant : agriculture\, forêts\, oc
+	éans
+DTSTAMP:20230401T100500Z
+DTSTART:20211118T160000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=5c55e0d0-001a-4420-bfff-ccd145
+	2683c9
+DURATION:PT120M
+END:VEVENT
+END:VCALENDAR

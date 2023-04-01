@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:z7CSXseq78dESBrVlD5Oq
+SUMMARY:Evénement PEKOIA | Caravage\, l'enfant terrible de la peinture baro
+	que
+DTSTAMP:20230401T100500Z
+DTSTART:20211110T150000Z
+DESCRIPTION:L'entrée dans l'ère de la peinture baroque
+LOCATION:https://pekoia.com/hub/?inscription=3d27dfa4-ad82-4127-b021-c010b3
+	be6ddb
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

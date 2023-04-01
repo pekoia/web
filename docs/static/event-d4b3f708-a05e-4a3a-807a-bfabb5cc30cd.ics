@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:lW7dcYU7EwyHfRroXRmNZ
+SUMMARY:Evénement PEKOIA | Invisibilisation des artistes femmes dans l'hist
+	oire de l'art
+DTSTAMP:20230401T100500Z
+DTSTART:20221026T160000Z
+DESCRIPTION:Le temps de l'apprentissage
+LOCATION:https://pekoia.com/hub/?inscription=d4b3f708-a05e-4a3a-807a-bfabb5
+	cc30cd
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

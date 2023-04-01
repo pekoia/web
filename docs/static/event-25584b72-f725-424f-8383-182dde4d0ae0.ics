@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:m7YhbptcWu1I2gbTpymBW
+SUMMARY:Evénement PEKOIA | Voyage dans le monde des énergies: Besoins\, enj
+	eux\, technologies et… futur ? 1/4
+DTSTAMP:20230401T100500Z
+DTSTART:20230209T193000Z
+DESCRIPTION:Introduction - considérations sociétales\, environnementales & 
+	économiques - classification énergies - quiz
+LOCATION:https://pekoia.com/hub/?inscription=25584b72-f725-424f-8383-182dde
+	4d0ae0
+DURATION:PT75M
+END:VEVENT
+END:VCALENDAR

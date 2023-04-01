@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Sn8FFqxjX6fEFzmr9r_ZG
+SUMMARY:Evénement PEKOIA | Angelica Kauffmann (1741-1807)
+DTSTAMP:20230401T100500Z
+DTSTART:20220511T163000Z
+DESCRIPTION:Peintre des cours européennes et de ses académies au siècle des
+	 Lumières
+LOCATION:https://pekoia.com/hub/?inscription=8b4bde2e-2e7c-443f-be82-8ac4fe
+	46e998
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

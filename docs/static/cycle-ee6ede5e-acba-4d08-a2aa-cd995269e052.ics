@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:aYkIVIayDAGDBSxgP897D
+SUMMARY:Evénement PEKOIA | Architecture et renouveau liturgique sous les Ca
+	rolingiens
+DTSTAMP:20230401T100500Z
+DTSTART:20230210T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=fced937f-af0f-423b-90a3-821272
+	2092dc
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:sQTqzWphpyJjvG3UhDxR4
+SUMMARY:Evénement PEKOIA | La "Renaissance carolingienne"
+DTSTAMP:20230401T100500Z
+DTSTART:20230113T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=3d6706ab-e1c9-4959-ba0b-3c5d6b
+	07ef81
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:dtQE9MPR2TIqS0lXEFgyY
+SUMMARY:Evénement PEKOIA | L'enluminure sous les Carolingiens : l'école pal
+	atine
+DTSTAMP:20230401T100500Z
+DTSTART:20230310T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=538dec97-51a9-49b2-a2b2-65056d
+	ac94f2
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:RDLfJoEO_wltiT3s4Bg2D
+SUMMARY:Evénement PEKOIA | Les arts précieux et l'influence antique sous le
+	s Carolingiens
+DTSTAMP:20230401T100500Z
+DTSTART:20230331T183000Z
+LOCATION:https://pekoia.com/hub/?inscription=6894bc69-efdb-4ef2-a4a1-a8b43f
+	8c4147
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:WR0kMgcV6TY9XRMQv4bvs
+SUMMARY:Evénement PEKOIA | Aix-la-Chapelle et l'architecture palatine sous 
+	les Carolingiens
+DTSTAMP:20230401T100500Z
+DTSTART:20230127T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=3e7292a6-9b6d-4fff-9dcc-33e93d
+	86f277
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

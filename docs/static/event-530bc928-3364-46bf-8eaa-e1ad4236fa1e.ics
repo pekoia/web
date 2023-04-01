@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:5N3PMgPw-Tcgm0SH6hk8B
+SUMMARY:Evénement PEKOIA | Le soutra de Vimalakirti
+DTSTAMP:20230401T100500Z
+DTSTART:20220315T160000Z
+DESCRIPTION:Laïc contemporain du Bouddha\, qui permet au bouddhisme de s’im
+	poser auprès des lettrés chinois
+LOCATION:https://pekoia.com/hub/?inscription=530bc928-3364-46bf-8eaa-e1ad42
+	36fa1e
+DURATION:PT120M
+END:VEVENT
+END:VCALENDAR

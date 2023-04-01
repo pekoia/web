@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:sAL8jGXigHUwhc9yD9Mjh
+SUMMARY:Evénement PEKOIA | Façades\, cours\, et jardins : Que nous apprend 
+	le palais du Louvre sur le corps politique du prince ?
+DTSTAMP:20230401T100500Z
+DTSTART:20230314T180000Z
+LOCATION:https://pekoia.com/hub/?inscription=42b65d0a-f058-4e9a-b886-dc9b72
+	44121c
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

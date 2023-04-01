@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:aYn8tw4m4t882xp154luL
+SUMMARY:Evénement PEKOIA | Street Art\, Graffiti et Territoires
+DTSTAMP:20230401T100500Z
+DTSTART:20230426T163000Z
+DESCRIPTION:Conférence en ligne sur le street art et le graffiti à travers 
+	les travaux des artistes et des murs de nos villes
+LOCATION:https://pekoia.com/hub/?inscription=b86953ff-fd50-49ed-ad75-f6c47b
+	d3638f
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:kh7HU9YhX7ppGsqyK7wHo
+SUMMARY:Evénement PEKOIA | Elizabeth Tudor\, portrait du pouvoir\, pouvoir 
+	du portrait
+DTSTAMP:20230401T100500Z
+DTSTART:20221108T180000Z
+DESCRIPTION:Une femme à l'origine du commonwealth
+LOCATION:https://pekoia.com/hub/?inscription=b8f9e8dc-1a98-4956-aa15-e5c040
+	7a9254
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:NwfRgQG-VL-8-hy2A0uNo
+SUMMARY:Evénement PEKOIA | Voyage dans le monde des énergies: Besoins\, enj
+	eux\, technologies et… futur ? 4/4
+DTSTAMP:20230401T100500Z
+DTSTART:20230302T193000Z
+DESCRIPTION:Zoom sur hydrogène – quiz / Démocratie - conclusions
+LOCATION:https://pekoia.com/hub/?inscription=0bf5d34b-d449-49a1-9444-7a4c2c
+	d4b422
+DURATION:PT75M
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:CCtb2gMjJp9XTze8m0VXp
+SUMMARY:Evénement PEKOIA | 4/7 - Carbone vivant : agriculture\, forêts\, oc
+	éans
+DTSTAMP:20230401T100500Z
+DTSTART:20211118T160000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=5c55e0d0-001a-4420-bfff-ccd145
+	2683c9
+DURATION:PT120M
+END:VEVENT
+BEGIN:VEVENT
+UID:BSUGfROwjdQQuYTMoM8-k
+SUMMARY:Evénement PEKOIA | 7/7 - Comment accélérer?
+DTSTAMP:20230401T100500Z
+DTSTART:20211209T160000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=d712602a-abad-44c3-bc9a-2c8fd4
+	7f090d
+DURATION:PT120M
+END:VEVENT
+BEGIN:VEVENT
+UID:fnBVUdJGd4oPfo1BpUvqq
+SUMMARY:Evénement PEKOIA | 6/7 - Les instruments économiques d'action (prix
+	 du CO2)
+DTSTAMP:20230401T100500Z
+DTSTART:20211202T160000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=1250ed54-d04a-44a9-b5b7-65df27
+	74562c
+DURATION:PT120M
+END:VEVENT
+BEGIN:VEVENT
+UID:-PYRabMqhrm15MNKcmnrs
+SUMMARY:Evénement PEKOIA | 2/7 - S'adapter aux impacts du réchauffement
+DTSTAMP:20230401T100500Z
+DTSTART:20211021T150000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=2d7329b2-65d6-45ea-a682-2b7995
+	d8977f
+DURATION:PT120M
+END:VEVENT
+BEGIN:VEVENT
+UID:3FugiQ4LxvP_auKt9hvKW
+SUMMARY:Evénement PEKOIA | 5/7 - Carbone fossile : la transition énergétiqu
+	e
+DTSTAMP:20230401T100500Z
+DTSTART:20211125T160000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=4c9ffdc4-f5f6-474c-8cea-5aa74e
+	4780d9
+DURATION:PT120M
+END:VEVENT
+BEGIN:VEVENT
+UID:SSBF53HafNBX-1u-4oOnJ
+SUMMARY:Evénement PEKOIA | 3/7 - La négociation climatique internationale
+DTSTAMP:20230401T100500Z
+DTSTART:20211104T160000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=1e193bcd-0e6b-4696-8f63-d52f0d
+	a422db
+DURATION:PT120M
+END:VEVENT
+BEGIN:VEVENT
+UID:p-LFPwj6qJDHYC4HP0rx7
+SUMMARY:Evénement PEKOIA | 1 /7 - Climat : ce que l'on sait
+DTSTAMP:20230401T100500Z
+DTSTART:20211014T150000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=e7c1aa97-4df3-463e-a2b4-4e2dbc
+	dc5e48
+DURATION:PT120M
+END:VEVENT
+END:VCALENDAR

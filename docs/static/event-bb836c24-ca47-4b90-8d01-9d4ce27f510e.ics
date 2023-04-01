@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:lfhhttCn74ogjRwLU-Q4D
+SUMMARY:Evénement PEKOIA | Alice Neel. Une Portraitiste à New York\, de Gre
+	enwich Village à Spanish Harlem\, 1930-1984
+DTSTAMP:20230401T100500Z
+DTSTART:20230112T173000Z
+DESCRIPTION:Regards croisés entre deux expositions\, au Centre Georges Pomp
+	idou\, Paris et au Metropolitan Museum de New York
+LOCATION:https://pekoia.com/hub/?inscription=bb836c24-ca47-4b90-8d01-9d4ce2
+	7f510e
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

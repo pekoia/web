@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Iiy7QXWyPDVsd9Uoxi1Fm
+SUMMARY:Evénement PEKOIA | Meret Oppenheim. Une artiste surréaliste : innov
+	ation\, originalité et humour subversif 
+DTSTAMP:20230401T100500Z
+DTSTART:20230131T173000Z
+DESCRIPTION:En dialogue avec l'exposition au Museum of Modern Art\, New Yor
+	k
+LOCATION:https://pekoia.com/hub/?inscription=a5f18f61-b10a-4f7c-973e-c10bcb
+	c28752
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

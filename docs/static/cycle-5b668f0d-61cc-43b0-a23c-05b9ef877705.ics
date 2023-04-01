@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ekFMdRKEQs0oTLxQy1fiF
+SUMMARY:Evénement PEKOIA | Robert et Sonia Delaunay\, par-delà les disques 
+	colorés
+DTSTAMP:20230401T100500Z
+DTSTART:20230404T123000Z
+LOCATION:https://pekoia.com/hub/?inscription=07536d66-a55b-4106-99a4-22a8c3
+	ea0ef6
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:3_1JI7gcDsUJitWdywHLw
+SUMMARY:Evénement PEKOIA | Pierre Soulages\, par-delà du monochrome noir
+DTSTAMP:20230401T100500Z
+DTSTART:20230425T123000Z
+LOCATION:https://pekoia.com/hub/?inscription=1908b7b7-a17e-4d04-81e9-39f1c5
+	07f2b3
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:PFjNXCAsTwmEDBjvCm7ND
+SUMMARY:Evénement PEKOIA | Niki de Saint Phalle\, par-delà les nanas pleine
+	s de vie
+DTSTAMP:20230401T100500Z
+DTSTART:20230418T123000Z
+LOCATION:https://pekoia.com/hub/?inscription=faadb92b-1cc7-4484-8969-e07457
+	ce5672
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:xJ5nv2twvLD5TdjlgBpF5
+SUMMARY:Evénement PEKOIA | Victor Vasarely\, par-delà les illusions d’optiq
+	ue
+DTSTAMP:20230401T100500Z
+DTSTART:20230411T123000Z
+LOCATION:https://pekoia.com/hub/?inscription=c68fb9f1-ef83-49f1-a4ce-f1c054
+	606b20
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

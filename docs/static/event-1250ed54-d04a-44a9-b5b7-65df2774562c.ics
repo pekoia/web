@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:P6S4K8OYUddmxgYGNNCN6
+SUMMARY:Evénement PEKOIA | 6/7 - Les instruments économiques d'action (prix
+	 du CO2)
+DTSTAMP:20230401T100500Z
+DTSTART:20211202T160000Z
+DESCRIPTION:Les perspectives de l'action climatique dans le monde post COVI
+	D-19
+LOCATION:https://pekoia.com/hub/?inscription=1250ed54-d04a-44a9-b5b7-65df27
+	74562c
+DURATION:PT120M
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Xf7HGoqhAVxBhdaCjPq6W
+SUMMARY:Evénement PEKOIA | Le soutra du Lotus
+DTSTAMP:20230401T100500Z
+DTSTART:20220308T160000Z
+DESCRIPTION:Ses idées de nature et de corps de Bouddha\, de cheminement du 
+	bodhisattva\, de culte des reliques\, de pouvoir des soutras et des bodhis
+	attvas
+LOCATION:https://pekoia.com/hub/?inscription=c65a9c52-5350-4cc8-8455-9e3677
+	8ea1aa
+DURATION:PT120M
+END:VEVENT
+END:VCALENDAR

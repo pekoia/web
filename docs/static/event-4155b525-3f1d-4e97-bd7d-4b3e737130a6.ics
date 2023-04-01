@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Na0LX9r5zygSnL2FjTr0f
+SUMMARY:Evénement PEKOIA | L’Union des Artistes Modernes : des créateurs et
+	 créatrices s’unissent pour servir le plus grand nombre
+DTSTAMP:20230401T100500Z
+DTSTART:20220707T163000Z
+DESCRIPTION:L’art par et pour le peuple
+LOCATION:https://pekoia.com/hub/?inscription=4155b525-3f1d-4e97-bd7d-4b3e73
+	7130a6
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

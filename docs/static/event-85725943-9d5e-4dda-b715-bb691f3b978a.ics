@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:oRgZ8uGC-SCgBzW_0_yvP
+SUMMARY:Evénement PEKOIA | La maison de verre à Paris\, une éblouissante "b
+	oîte de lumière"
+DTSTAMP:20230401T100500Z
+DTSTART:20230607T170000Z
+DESCRIPTION:1928-1931\,  Pierre Chareau réalise  une étonnante maison moder
+	ne 
+LOCATION:https://pekoia.com/hub/?inscription=85725943-9d5e-4dda-b715-bb691f
+	3b978a
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

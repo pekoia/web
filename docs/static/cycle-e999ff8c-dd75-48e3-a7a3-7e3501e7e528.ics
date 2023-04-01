@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:UDQ0ros-pSeHhkfWgN1_f
+SUMMARY:Evénement PEKOIA | L'Opus francigenum : la diffusion de l'art gothi
+	que en Europe
+DTSTAMP:20230401T100500Z
+DTSTART:20230116T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=4c510c01-1b65-438b-a611-acf5ee
+	d93650
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:_vEuW2yyhj4OyWrAKKhig
+SUMMARY:Evénement PEKOIA | Les dernières décennies du Moyen-âge
+DTSTAMP:20230401T100500Z
+DTSTART:20230327T183000Z
+DESCRIPTION:De la tradition gothique à une nouvelle vision du Moyen-âge
+LOCATION:https://pekoia.com/hub/?inscription=3ecad012-1d4c-4150-bb30-4dc483
+	66c3f0
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:vgzb21NYvoKEwGWnx1Xbl
+SUMMARY:Evénement PEKOIA | La littérature courtoise : le Roman de la Rose
+DTSTAMP:20230401T100500Z
+DTSTART:20230313T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=1707405c-0c63-411f-abc0-cc6d14
+	37f891
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:zn2fFfNyx8El7EfQJhxfC
+SUMMARY:Evénement PEKOIA | Le gothique flamboyant : l'art du mouvement
+DTSTAMP:20230401T100500Z
+DTSTART:20230130T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=bce80304-a844-4882-970e-d3a1f4
+	40e85e
+DURATION:PT90M
+END:VEVENT
+BEGIN:VEVENT
+UID:B2a8aDAuG5v1us1jtYN_A
+SUMMARY:Evénement PEKOIA | Les années 1380-1420 en Europe : les fastes du g
+	othique international
+DTSTAMP:20230401T100500Z
+DTSTART:20230213T193000Z
+LOCATION:https://pekoia.com/hub/?inscription=3bfe0985-09ac-4a74-9f38-816afb
+	3dfbc9
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:GABV9iPhFIiRL6MblGLk0
+SUMMARY:Evénement PEKOIA | L'art décoratif à la fin du XIXe siècle
+DTSTAMP:20230401T100500Z
+DTSTART:20220511T163000Z
+DESCRIPTION:De la revendication d'un art décoratif à l'invention d'une esth
+	étique industrielle
+LOCATION:https://pekoia.com/hub/?inscription=d77c8fb6-783d-4803-aa76-8fe735
+	775575
+DURATION:PT60M
+END:VEVENT
+END:VCALENDAR

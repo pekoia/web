@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:LdTLAGFS0-RnA9EGIx6Go
+SUMMARY:Evénement PEKOIA | Voyage dans le monde des énergies: Besoins\, enj
+	eux\, technologies et… futur ? 2/4
+DTSTAMP:20230401T100500Z
+DTSTART:20230216T193000Z
+DESCRIPTION:L'énergie - définition - généralités - mondiales - grandeurs - 
+	quiz
+LOCATION:https://pekoia.com/hub/?inscription=31cf8245-9657-499d-8072-9ea302
+	dfaa4c
+DURATION:PT75M
+END:VEVENT
+END:VCALENDAR

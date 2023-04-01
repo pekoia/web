@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:eCb0W8zsbBpMOFTyHEfSS
+SUMMARY:Evénement PEKOIA | Elles ont fait l'art moderne: les femmes marchan
+	des d'art à New York\, de Peggy Guggenheim à Ileana Sonnabend
+DTSTAMP:20230401T100500Z
+DTSTART:20230330T163000Z
+LOCATION:https://pekoia.com/hub/?inscription=26fe1227-8999-4b38-baa4-b4d2ef
+	854a41
+DURATION:PT90M
+END:VEVENT
+END:VCALENDAR
